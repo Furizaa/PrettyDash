@@ -1,0 +1,5 @@
+#Thu Aug 25 21:39:08 CEST 2011
+eclipse.preferences.version=1
+include_path=0;/PrettyDash\u00055;org.zend.php.framework.CONTAINER\u00055;com.zend.php.phpunit.CONTAINER
+phpVersion=php5.3
+use_asp_tags_as_php=false
